@@ -1,0 +1,108 @@
+.car-image {
+  min-height: 300px;
+  min-width: 300px;
+  width: 30vw;
+  height: 30vw;
+  margin: none;
+  cursor: pointer;
+}
+.booking-form {
+  border-right: 2px solid grey;
+  margin: 15px;
+}
+.container > div {
+  padding: 10px;
+  margin: auto;
+  align-items: stretch;
+}
+
+.footer {
+  display: block;
+  width: 100vw;
+}
+
+.service-heading {
+  display: flex;
+  /* justify-content: center; */
+  margin: auto;
+  max-width: 90vw;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.left,
+.right {
+  flex: 0;
+  padding: 10px;
+}
+
+.center {
+  flex: 2;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+li:before {
+  content: "- ";
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  justify-content: space-evenly;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  align-content: space-between;
+  margin: auto;
+  padding: 5px;
+  min-width: 250px;
+}
+
+span {
+  color: red;
+}
+
+.service-heading>span{
+  color: black;
+  padding-bottom: 5px;
+}
+@media (max-width: 600px) {
+  .car-image {
+    max-height: 300px;
+    max-width: 300px;
+    width: 15vw;
+    height: 15vw;
+    cursor: pointer;
+  }
+
+  .left,
+  .right {
+    flex: 0;
+    padding: 10px;
+  }
+
+  .booking-form {
+    /* border: none; */
+    width: 70vw;
+  }
+}
+
+body {
+  /* overflow-y: hidden;  */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
