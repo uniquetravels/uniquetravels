@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/uniquetravels/static/css/main.626f7945.css",
-    "main.js": "/uniquetravels/static/js/main.6bbe80b9.js",
+    "main.js": "/uniquetravels/static/js/main.100d6b5c.js",
     "static/js/415.1856c3ed.js": "/uniquetravels/static/js/415.1856c3ed.js",
     "static/media/innova_old.jpg": "/uniquetravels/static/media/innova_old.42f68a62fcc56033eaac.jpg",
     "static/media/innova.jpg": "/uniquetravels/static/media/innova.7b586899807a7841c660.jpg",
@@ -17,12 +17,12 @@
     "manifest.json": "/uniquetravels/manifest.json",
     "serve.json": "/uniquetravels/serve.json",
     "main.626f7945.css.map": "/uniquetravels/static/css/main.626f7945.css.map",
-    "main.6bbe80b9.js.map": "/uniquetravels/static/js/main.6bbe80b9.js.map",
+    "main.100d6b5c.js.map": "/uniquetravels/static/js/main.100d6b5c.js.map",
     "415.1856c3ed.js.map": "/uniquetravels/static/js/415.1856c3ed.js.map"
   },
   "entrypoints": [
     "static/js/415.1856c3ed.js",
     "static/css/main.626f7945.css",
-    "static/js/main.6bbe80b9.js"
+    "static/js/main.100d6b5c.js"
   ]
 }
