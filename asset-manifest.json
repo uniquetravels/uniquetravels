@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cab-inquiry/static/css/main.626f7945.css",
-    "main.js": "/cab-inquiry/static/js/main.ccc76346.js",
+    "main.js": "/cab-inquiry/static/js/main.2ae6b987.js",
     "static/js/790.a4ff0271.js": "/cab-inquiry/static/js/790.a4ff0271.js",
     "static/media/innova_old.jpg": "/cab-inquiry/static/media/innova_old.42f68a62fcc56033eaac.jpg",
     "static/media/innova.jpg": "/cab-inquiry/static/media/innova.7b586899807a7841c660.jpg",
@@ -17,12 +17,12 @@
     "manifest.json": "/cab-inquiry/manifest.json",
     "serve.json": "/cab-inquiry/serve.json",
     "main.626f7945.css.map": "/cab-inquiry/static/css/main.626f7945.css.map",
-    "main.ccc76346.js.map": "/cab-inquiry/static/js/main.ccc76346.js.map",
+    "main.2ae6b987.js.map": "/cab-inquiry/static/js/main.2ae6b987.js.map",
     "790.a4ff0271.js.map": "/cab-inquiry/static/js/790.a4ff0271.js.map"
   },
   "entrypoints": [
     "static/js/790.a4ff0271.js",
     "static/css/main.626f7945.css",
-    "static/js/main.ccc76346.js"
+    "static/js/main.2ae6b987.js"
   ]
 }
